@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2023.<br>
-📚 Currently building a German language-learning app powered by AI.<br>
+📚 Currently building a <a href="https://github.com/dimab25/DeutschInContext" target="_blank">German language-learning app</a>  powered by AI.<br>
 🎯 Goal: Focused on mastering modern web technologies and building full-stack applications.<br>
 🎓 Graduate of <a href="https://github.com/CodeAcademyBerlin" target="_blank">Code Academy Berlin</a>.<br>
 💬 Fluent in German, English, and Japanese, with some knowledge of Russian.<br>
@@ -60,6 +60,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
  </div>
+
+###
+
+<h2 align="left">Projects</h2>
+
+TomoLingo is a social platform designed for Japanese language learners. Users can connect with fellow learners, share posts, participate in a virtual chatroom, and rate Japanese movies and series based on language proficiency levels. 
+<a href="https://japanese-language-learn-appclient.vercel.app" target="_blank">Link</a> 
+
+Uniscope is a web application that integrates the NASA API to provide users with a rich, interactive experience. Features include user authentication, access to NASA's Astronomy Picture of the Day, image search capabilities, educational content about the universe, and a chat for community engagement. 
+<a href="https://uniscopepage.netlify.app" target="_blank">Link</a> 
+
 
 ###
 
